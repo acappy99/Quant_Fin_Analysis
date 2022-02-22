@@ -12,6 +12,18 @@ Quantifying risk exposure of a client's portfolio ($1 million in 50% DJIA & 50% 
 
 Examining the dynamic link between the spot and futures prices of crude oil using spot and futures prices from January 2000 to December 2020.
 
+## GARCH_SPX.ipynb
+
+GARCH example using SPX
+
+## Nordstrom_Revenue.ipynb
+
+Time series example analysis of Nordstrom revenues
+
+## VECM_SpotFutures
+
+VECM example analysis using gasoline spot and futues prices
+
 ## Simple_StockIndex_Analysis.ipynb
 
 Simple starter project doing simple financial analysis on stock index returns
