@@ -11,3 +11,7 @@ Quantifying risk exposure of a client's portfolio ($1 million in 50% DJIA & 50% 
 ## Cointegration_ErrorCorrection.ipynb
 
 Examining the dynamic link between the spot and futures prices of crude oil using spot and futures prices from January 2000 to December 2020.
+
+## Simple_StockIndex_Analysis.ipynb
+
+Simple starter project doing simple financial analysis on stock index returns
