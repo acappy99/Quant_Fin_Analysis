@@ -12,6 +12,10 @@ Quantifying risk exposure of a client's portfolio ($1 million in 50% DJIA & 50% 
 
 Examining the dynamic link between the spot and futures prices of crude oil using spot and futures prices from January 2000 to December 2020.
 
+## Regression_Example.ipynb
+
+Regression example using international stock returns and vaccine news
+
 ## GARCH_SPX.ipynb
 
 GARCH example using SPX
