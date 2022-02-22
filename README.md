@@ -1,4 +1,6 @@
 # QuantitativeFinancialAnalysis
+A repository of misc. financial projects.
+
 
 ## py
 #### TimeSeries.ipynb
