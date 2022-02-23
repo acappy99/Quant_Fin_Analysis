@@ -1,5 +1,9 @@
 # Python files
 
+## TVM_Master.py
+
+Time value of money calculator; currently offering the value of a perpetual cash flow and a simple present value of cash flows.
+
 ## TimeSeries.ipynb
 
 Forecasting Target's revenues for the four quarters of 2020 using data from 1971 to 2019 and comparing with actual values.
